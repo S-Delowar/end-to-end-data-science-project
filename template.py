@@ -4,7 +4,7 @@ from pathlib import Path
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = "Data Science Project"
+project_name = "data_science_project"
 
 file_list = [
     ".github/workflow/.gitkeep",
@@ -20,7 +20,7 @@ file_list = [
     f"src/{project_name}/constant/__init__.py",
     "config/config.yaml",
     "params.yaml",
-    "schema.yml"
+    "schema.yml",
     "main.py",
     "Dockerfile",
     "requirements.txt",
