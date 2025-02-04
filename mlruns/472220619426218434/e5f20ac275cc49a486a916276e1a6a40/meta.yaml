@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472220619426218434/e5f20ac275cc49a486a916276e1a6a40/artifacts
+end_time: 1738648692248
+entry_point_name: ''
+experiment_id: '472220619426218434'
+lifecycle_stage: active
+run_id: e5f20ac275cc49a486a916276e1a6a40
+run_name: charming-bee-971
+run_uuid: e5f20ac275cc49a486a916276e1a6a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738648685306
+status: 3
+tags: []
+user_id: Asus

@@ -41,7 +41,7 @@ except Exception as e:
 try:
     logger.info(f"================ Model Evaluation Stage Starts ================")   
     model_evaluation_pipeline = ModelEvaluationPipeline()
-    model_trainer_pipeline.initiate_model_training()
+    model_evaluation_pipeline.initiate_model_evaluation()
     logger.info("================ Model Evaluation Stage Completed ================")
 except Exception as e:
     raise e
